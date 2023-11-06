@@ -1,2 +1,3 @@
 ## Praticas-LP2 📝
- Exercicios resolvidos utilizando Programação Orientada a objetos com Java ☕ na disciplina Laboratório de Programação 2.
+LP2 Practices 📝
+Exercises solved using Object-Oriented Programming with Java ☕ 
