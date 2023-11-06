@@ -1,3 +1,3 @@
 # Agenda de Contatos
 
-Sistema para gerenciar seus contatos. O sistema permite o cadastro e visualização de contatos.
+Sistema para gerenciar contatos. O sistema permite o cadastro e visualização de contatos.
