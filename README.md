@@ -1,2 +1,2 @@
-## Praticas-LP2 📝
+## Practices-LP2 📝
 Exercises solved using Object-Oriented Programming with Java ☕ 
