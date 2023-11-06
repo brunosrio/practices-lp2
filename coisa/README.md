@@ -1,2 +1,2 @@
 # CoISA
-### CoISA - Controle Institucional da Situação Acadêmica <br>
+### CoISA - Controle Institucional da Situação Acadêmica
